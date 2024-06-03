@@ -1,5 +1,5 @@
 <?php
-    if(!define('ABSPATH')){
+    if(!defined('ABSPATH')){
         exit();
     }
 ?>
